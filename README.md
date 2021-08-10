@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing arch Linux with archfi.](https://furycd001.github.io/installing-arch-linux-with-archfi/)
 - [A search engine for the minimalist web.](https://furycd001.github.io/a-search-engine-for-the-minimalist-web/)
 - [Fixing paprefs on ubuntu....](https://furycd001.github.io/fixing-paprefs-on-ubuntu/)
 - [Video as desktop wallpaper.](https://furycd001.github.io/video-as-desktop-wallpaper/)
 - [Linux zen kernel....](https://furycd001.github.io/linux-zen-kernel/)
-- [Temporarily removing Kernel modules.](https://furycd001.github.io/temporarily-removing-kernel-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
