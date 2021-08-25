@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Four useful ffmpeg commands.](https://furycd001.github.io/four-useful-ffmpeg-commands/)
 - [A few useful pacman commands.](https://furycd001.github.io/a-few-useful-pacman-commands/)
 - [Lofi video wallpaper.](https://furycd001.github.io/lofi-video-wallpaper/)
 - [Installing arch Linux with archfi.](https://furycd001.github.io/installing-arch-linux-with-archfi/)
 - [A search engine for the minimalist web.](https://furycd001.github.io/a-search-engine-for-the-minimalist-web/)
-- [Fixing paprefs on ubuntu....](https://furycd001.github.io/fixing-paprefs-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
