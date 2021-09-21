@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
 - [Using imagemagick as an image viewer.](https://furycd001.github.io/using-imagemagick-as-an-image-viewer/)
 - [Installing imagemagick on debian.](https://furycd001.github.io/installing-imagemagick-on-debian/)
 - [Download all media from a users instagram or twitter account.](https://furycd001.github.io/download-all-media-from-a-users-instagram-or-twitter-account/)
 - [Four useful ffmpeg commands.](https://furycd001.github.io/four-useful-ffmpeg-commands/)
-- [A few useful pacman commands.](https://furycd001.github.io/a-few-useful-pacman-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
