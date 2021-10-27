@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
 - [Downloading Age Restricted Videos With youtube-dl.](https://furycd001.github.io/downloading-age-restricted-videos-with-youtube-dl/)
 - [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
 - [Using imagemagick as an image viewer.](https://furycd001.github.io/using-imagemagick-as-an-image-viewer/)
 - [Installing imagemagick on debian.](https://furycd001.github.io/installing-imagemagick-on-debian/)
-- [Download all media from a users instagram or twitter account.](https://furycd001.github.io/download-all-media-from-a-users-instagram-or-twitter-account/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
