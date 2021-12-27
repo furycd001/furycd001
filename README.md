@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hiding statusbar in tmux.](https://furycd001.github.io/hiding-statusbar-in-tmux/)
 - [Creating a simple blog with markdown &amp; bash.](https://furycd001.github.io/creating-a-simple-blog-with-markdown-and-bash/)
 - [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
 - [Downloading Age Restricted Videos With youtube-dl.](https://furycd001.github.io/downloading-age-restricted-videos-with-youtube-dl/)
 - [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
-- [Using imagemagick as an image viewer.](https://furycd001.github.io/using-imagemagick-as-an-image-viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
