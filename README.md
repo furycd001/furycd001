@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Arch on termux.](https://furycd001.github.io/installing-arch-on-termux/)
 - [Creating a simple blog with markdown &amp; bash.](https://furycd001.github.io/creating-a-simple-blog-with-markdown-and-bash/)
 - [Hiding statusbar in tmux.](https://furycd001.github.io/hiding-statusbar-in-tmux/)
 - [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
 - [Downloading Age Restricted Videos With youtube-dl.](https://furycd001.github.io/downloading-age-restricted-videos-with-youtube-dl/)
-- [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
