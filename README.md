@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Brian Benchoff designed a $15 portable computer.](https://furycd001.github.io/brian-benchoff-designed-a-dollar15-portable-computer/)
 - [Awesome Arch](https://furycd001.github.io/awesome-arch/)
 - [Installing Arch on termux.](https://furycd001.github.io/installing-arch-on-termux/)
 - [Creating a simple blog with markdown &amp; bash.](https://furycd001.github.io/creating-a-simple-blog-with-markdown-and-bash/)
 - [Hiding statusbar in tmux.](https://furycd001.github.io/hiding-statusbar-in-tmux/)
-- [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
