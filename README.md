@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Possibly moving to bspwm !!](https://furycd001.github.io/possibly-moving-to-bspwm/)
 - [Installing Arch on termux.](https://furycd001.github.io/installing-arch-on-termux/)
 - [Fixing error with updating Arch Linux keyring](https://furycd001.github.io/fixing-error-with-updating-arch-linux-keyring/)
 - [How to launch applications with sudo using rofi.](https://furycd001.github.io/how-to-launch-applications-with-sudo-using-rofi/)
 - [Brian Benchoff designed a $15 portable computer.](https://furycd001.github.io/brian-benchoff-designed-a-dollar15-portable-computer/)
-- [Awesome Arch](https://furycd001.github.io/awesome-arch/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
