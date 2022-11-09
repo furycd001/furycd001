@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Extracting audio from .webm files using ffmpeg](https://furycd001.github.io/extracting-audio-from-webm-files-using-ffmpeg/)
-- [Possibly moving to bspwm !!](https://furycd001.github.io/possibly-moving-to-bspwm/)
-- [Installing Arch on termux.](https://furycd001.github.io/installing-arch-on-termux/)
-- [Fixing error with updating Arch Linux keyring](https://furycd001.github.io/fixing-error-with-updating-arch-linux-keyring/)
-- [How to launch applications with sudo using rofi.](https://furycd001.github.io/how-to-launch-applications-with-sudo-using-rofi/)
+- [Downloading multiple urls using xargs &amp; curl.](https://furycd001.github.io/downloading-multiple-urls-using-xargs-and-curl/)
+- [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
+- [Downloading Age Restricted Videos With youtube-dl.](https://furycd001.github.io/downloading-age-restricted-videos-with-youtube-dl/)
+- [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
+- [Using imagemagick as an image viewer.](https://furycd001.github.io/using-imagemagick-as-an-image-viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
