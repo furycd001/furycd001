@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disabling the new extensions button in firefox.](https://furycd001.github.io/disabling-the-new-extensions-button-in-firefox/)
 - [Downloading multiple urls using xargs &amp; curl.](https://furycd001.github.io/downloading-multiple-urls-using-xargs-and-curl/)
 - [Chaning the background color of image tabs in firefox.](https://furycd001.github.io/chaning-the-background-color-of-image-tabs-in-firefox/)
 - [Downloading Age Restricted Videos With youtube-dl.](https://furycd001.github.io/downloading-age-restricted-videos-with-youtube-dl/)
 - [Identifying an operating system using only the ping command.](https://furycd001.github.io/identifying-an-operating-system-using-only-the-ping-command/)
-- [Using imagemagick as an image viewer.](https://furycd001.github.io/using-imagemagick-as-an-image-viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
