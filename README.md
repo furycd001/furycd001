@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Batch extracting frames from multiple videos.](https://furycd001.github.io/batch-extracting-frames-from-multiple-videos/)
 - [Feh image viewer.](https://furycd001.github.io/feh-image-viewer/)
 - [gtk-libwinmenu](https://furycd001.github.io/gtk-libwinmenu/)
 - [XFCE Desktop Environment.](https://furycd001.github.io/xfce-desktop-environment/)
 - [Disabling the new extensions button in firefox.](https://furycd001.github.io/disabling-the-new-extensions-button-in-firefox/)
-- [Downloading multiple urls using xargs &amp; curl.](https://furycd001.github.io/downloading-multiple-urls-using-xargs-and-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
