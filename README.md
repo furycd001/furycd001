@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide on upgrading to a new Debian release.](https://furycd001.github.io/a-step-by-step-guide-on-upgrading-to-a-new-debian-release/)
+- [Managing Non-Debian Packages: Exploring the Power of &#39;sudo apt list&#39;](https://furycd001.github.io/managing-non-debian-packages-exploring-the-power-of-sudo-apt-list/)
 - [Batch extracting frames from multiple videos.](https://furycd001.github.io/batch-extracting-frames-from-multiple-videos/)
 - [Feh image viewer.](https://furycd001.github.io/feh-image-viewer/)
 - [gtk-libwinmenu](https://furycd001.github.io/gtk-libwinmenu/)
-- [XFCE Desktop Environment.](https://furycd001.github.io/xfce-desktop-environment/)
-- [Disabling the new extensions button in firefox.](https://furycd001.github.io/disabling-the-new-extensions-button-in-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
