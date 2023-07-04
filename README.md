@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Your Blogging Experience with Jenny](https://furycd001.github.io/simplify-your-blogging-experience-with-jenny/)
 - [Mastering Background Removal and Replacement in Computer Graphics](https://furycd001.github.io/mastering-background-removal-and-replacement-in-computer-graphics/)
 - [A Step-by-Step Guide on upgrading to a new Debian release.](https://furycd001.github.io/a-step-by-step-guide-on-upgrading-to-a-new-debian-release/)
 - [Managing Non-Debian Packages: Exploring the Power of &#39;sudo apt list&#39;](https://furycd001.github.io/managing-non-debian-packages-exploring-the-power-of-sudo-apt-list/)
 - [Batch extracting frames from multiple videos.](https://furycd001.github.io/batch-extracting-frames-from-multiple-videos/)
+- [Feh image viewer.](https://furycd001.github.io/feh-image-viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
