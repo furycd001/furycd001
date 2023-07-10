@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Emacs](https://furycd001.github.io/emacs/)
 - [Creating a basic blog post with Jenny.](https://furycd001.github.io/creating-a-basic-blog-post-with-jenny/)
 - [Jenny is a static blog generator..](https://furycd001.github.io/jenny-is-a-static-blog-generator/)
 - [Unleashing the Potential: Querying Bluetooth Headset Battery Data with BlueZ](https://furycd001.github.io/unleashing-the-potential-querying-bluetooth-headset-battery-data-with-bluez/)
 - [A guide to redirecting websites to 0.0.0.0 on Linux](https://furycd001.github.io/a-guide-to-redirecting-websites-to-0000-on-linux/)
-- [Ensuring Compatibility: The Importance of NVIDIA Proprietary Driver Versions](https://furycd001.github.io/ensuring-compatibility-the-importance-of-nvidia-proprietary-driver-versions/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
