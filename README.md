@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the State of Addiction in the Age of Modern Technology and the Internet](https://furycd001.github.io/navigating-the-state-of-addiction-in-the-age-of-modern-technology-and-the-internet/)
 - [Crafting Your Customized Live Linux with Linux Live Kit](https://furycd001.github.io/crafting-your-customized-live-linux-with-linux-live-kit/)
 - [Exploring the Power of Minimal Linux Live: A Tiny Educational Linux Distribution](https://furycd001.github.io/exploring-the-power-of-minimal-linux-live-a-tiny-educational-linux-distribution/)
 - [Emacs](https://furycd001.github.io/emacs/)
 - [Creating a basic blog post with Jenny.](https://furycd001.github.io/creating-a-basic-blog-post-with-jenny/)
-- [Jenny is a static blog generator..](https://furycd001.github.io/jenny-is-a-static-blog-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
