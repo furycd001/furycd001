@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Display Mastodon Toots in a Linux Terminal](https://furycd001.github.io/how-to-display-mastodon-toots-in-a-linux-terminal/)
-- [Activity Launcher on Android](https://furycd001.github.io/activity-launcher-on-android/)
-- [Building Basic Web Apps with Firefox](https://furycd001.github.io/building-basic-web-apps-with-firefox/)
-- [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
 - [LightHUD for TF2: Minimalism, Stability, and Improved Performance](https://furycd001.github.io/lighthud-for-tf2-minimalism-stability-and-improved-performance/)
+- [Crafting Your Customized Live Linux with Linux Live Kit](https://furycd001.github.io/crafting-your-customized-live-linux-with-linux-live-kit/)
+- [Exploring the Power of Minimal Linux Live: A Tiny Educational Linux Distribution](https://furycd001.github.io/exploring-the-power-of-minimal-linux-live-a-tiny-educational-linux-distribution/)
+- [Mastering Efficiency with XFWM4 Window Keybindings](https://furycd001.github.io/mastering-efficiency-with-xfwm4-window-keybindings/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
