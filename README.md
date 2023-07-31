@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
-- [Activity Launcher on Android](https://furycd001.github.io/activity-launcher-on-android/)
 - [How to Display Mastodon Toots in a Linux Terminal](https://furycd001.github.io/how-to-display-mastodon-toots-in-a-linux-terminal/)
+- [Activity Launcher on Android](https://furycd001.github.io/activity-launcher-on-android/)
+- [Building Basic Web Apps with Firefox](https://furycd001.github.io/building-basic-web-apps-with-firefox/)
+- [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
 - [LightHUD for TF2: Minimalism, Stability, and Improved Performance](https://furycd001.github.io/lighthud-for-tf2-minimalism-stability-and-improved-performance/)
-- [Mastering Efficiency with XFWM4 Window Keybindings](https://furycd001.github.io/mastering-efficiency-with-xfwm4-window-keybindings/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
