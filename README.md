@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
+- [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
 - [How to Display Mastodon Toots in a Linux Terminal](https://furycd001.github.io/how-to-display-mastodon-toots-in-a-linux-terminal/)
 - [LightHUD for TF2: Minimalism, Stability, and Improved Performance](https://furycd001.github.io/lighthud-for-tf2-minimalism-stability-and-improved-performance/)
-- [Crafting Your Customized Live Linux with Linux Live Kit](https://furycd001.github.io/crafting-your-customized-live-linux-with-linux-live-kit/)
 - [Exploring the Power of Minimal Linux Live: A Tiny Educational Linux Distribution](https://furycd001.github.io/exploring-the-power-of-minimal-linux-live-a-tiny-educational-linux-distribution/)
-- [Mastering Efficiency with XFWM4 Window Keybindings](https://furycd001.github.io/mastering-efficiency-with-xfwm4-window-keybindings/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
