@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unexpected Hiccup in Ubuntu 23.10 Release](https://furycd001.github.io/the-unexpected-hiccup-in-ubuntu-2310-release/)
 - [Alternative Linux kernels.](https://furycd001.github.io/alternative-linux-kernels/)
 - [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
 - [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
 - [How to Display Mastodon Toots in a Linux Terminal](https://furycd001.github.io/how-to-display-mastodon-toots-in-a-linux-terminal/)
-- [LightHUD for TF2: Minimalism, Stability, and Improved Performance](https://furycd001.github.io/lighthud-for-tf2-minimalism-stability-and-improved-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
