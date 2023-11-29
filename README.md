@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ArchiveOS and its Mission](https://furycd001.github.io/archiveos-and-its-mission/)
-- [Exploring Alternative YouTube Apps and Frontends](https://furycd001.github.io/exploring-alternative-youtube-apps-and-frontends/)
-- [Oldunreal&#39;s 469 Patch for Unreal Tournament](https://furycd001.github.io/oldunreals-469-patch-for-unreal-tournament/)
+- [Activity Launcher on Android](https://furycd001.github.io/activity-launcher-on-android/)
+- [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
+- [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
+- [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
 - [The Unexpected Hiccup in Ubuntu 23.10 Release](https://furycd001.github.io/the-unexpected-hiccup-in-ubuntu-2310-release/)
-- [Alternative Linux kernels.](https://furycd001.github.io/alternative-linux-kernels/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
