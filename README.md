@@ -1,6 +1,6 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Activity Launcher on Android](https://furycd001.github.io/activity-launcher-on-android/)
+- [Waveterm - The open-source cross-platform terminal](https://furycd001.github.io/waveterm-the-open-source-cross-platform-terminal/)
 - [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
 - [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
 - [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
