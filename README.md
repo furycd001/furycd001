@@ -1,7 +1,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unraveling the low expectations behind decaf.](https://furycd001.github.io/unraveling-the-low-expectations-behind-decaf/)
 - [Waveterm - The open-source cross-platform terminal](https://furycd001.github.io/waveterm-the-open-source-cross-platform-terminal/)
-- [The Early Days of Paid WiFi with Starbucks](https://furycd001.github.io/the-early-days-of-paid-wifi-with-starbucks/)
 - [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
 - [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
 - [The Unexpected Hiccup in Ubuntu 23.10 Release](https://furycd001.github.io/the-unexpected-hiccup-in-ubuntu-2310-release/)
