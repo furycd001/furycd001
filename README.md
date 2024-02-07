@@ -1,10 +1,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [nvidia-470xx on Arch Linux](https://furycd001.github.io/nvidia-470xx-on-arch-linux/)
-- [Unraveling the low expectations behind decaf.](https://furycd001.github.io/unraveling-the-low-expectations-behind-decaf/)
-- [Waveterm - The open-source cross-platform terminal](https://furycd001.github.io/waveterm-the-open-source-cross-platform-terminal/)
 - [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
 - [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
+- [The Unexpected Hiccup in Ubuntu 23.10 Release](https://furycd001.github.io/the-unexpected-hiccup-in-ubuntu-2310-release/)
+- [Oldunreal&#39;s 469 Patch for Unreal Tournament](https://furycd001.github.io/oldunreals-469-patch-for-unreal-tournament/)
+- [Exploring Alternative YouTube Apps and Frontends](https://furycd001.github.io/exploring-alternative-youtube-apps-and-frontends/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
