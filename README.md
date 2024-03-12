@@ -1,6 +1,6 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Image Comparison Using ImageMagick](https://furycd001.github.io/image-comparison-using-imagemagick/)
+- [Batch download videos with yt-dl and bash.](https://furycd001.github.io/batch-download-videos-with-yt-dl-and-bash/)
 - [CSS-Only Syntax Highlighting](https://furycd001.github.io/css-only-syntax-highlighting/)
 - [The Unexpected Hiccup in Ubuntu 23.10 Release](https://furycd001.github.io/the-unexpected-hiccup-in-ubuntu-2310-release/)
 - [Oldunreal&#39;s 469 Patch for Unreal Tournament](https://furycd001.github.io/oldunreals-469-patch-for-unreal-tournament/)
